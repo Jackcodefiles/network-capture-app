@@ -24,3 +24,10 @@ Clone the repository:
 ```bash
 git clone https://github.com/Jackcodefiles/network-capture-app.git
 cd network-capture-app
+
+---
+
+Install dependencies:
+```bash
+pip install -r requirements.txt
+playwright install
