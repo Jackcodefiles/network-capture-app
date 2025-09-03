@@ -22,5 +22,5 @@ and export them as **cURL** or **Python requests** code for easy reuse.
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/network-capture-app.git
+git clone https://github.com/Jackcodefiles/network-capture-app.git
 cd network-capture-app
